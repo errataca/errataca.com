@@ -22,7 +22,7 @@ Good for folks opening up a relationship. Goes deeper than the previous book. Go
 Less about an existing couple opening up. Very hippy. Must buy 3rd ed which has been updated to include nonbinary folk. Has stories from early poly but feels like it's for and from an earlier generation. Covers topics deeply, especially around sexuality. 
 
 #### Opening Up, (⭐️⭐️⭐️⭐️?)
-Good for couples opening up, Greta and I read this one 10 years ago when we first started. I don't remember much of it but apparently it worked. Need to read it again in order to give it a real rating.
+Good for couples opening up, G and I read this one 10 years ago when we first started. I don't remember much of it but apparently it worked. Need to read it again in order to give it a real rating.
 
 ### Podcasts
 
@@ -37,4 +37,4 @@ Individual stories and interviews with poly folk. (Featured a childhood friend o
 
 #### [Remodeled Love](https://www.remodeledlove.com/) (⭐️⭐️⭐️⭐️⭐️?)
 
-My NP is a huge Remodeled Love fan and I've enjoyed the content that she's forwarded me from them! They've published some books, including one on polyamorous parenting, that I have yet to read and review.
+G is a huge Remodeled Love fan and I've enjoyed the content that she's forwarded me from them! They've published some books, including one on polyamorous parenting, that I have yet to read and review.
