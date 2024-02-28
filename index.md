@@ -15,11 +15,11 @@ If you have any suggestions or feedback, please feel free to email me at err@err
 #### Polysecure (⭐️⭐️⭐️⭐️⭐️) - Jessica Fern
 This one isn't a good introduction to polyam, but it's required reading for anyone interested. Takes an Attachment-Theory lens and trauma-informed look at polyamory. Really great to do as a book group.
 
-#### Open Deeply (⭐️⭐️⭐️) - Kate Loree
+#### Open Deeply (⭐️⭐️⭐️⭐️) - Kate Loree
 Good for polyam newbies and folks opening up a relationship. Covers a lot of the same topics as the other books. Feels somewhat "surface level" sometimes.
 
 #### The Ethical Slut (⭐️⭐️⭐️) - Dossie Easton, Janet Hardy
-Less about an existing couple opening up. Very hippy. Must buy 3rd ed (earlier versions contained some -isms). Sometimes feels like it's for and from an earlier generation of polyam folks. Covers topics deeply, focuses a lot on sexuality. 
+Less about an existing couple opening up. Very hippy. Must buy 3rd ed (earlier versions contained some -isms). As a milennial, sometimes feels like it's for and from an earlier generation of polyam folks. Covers topics deeply, focuses a lot on sexuality. 
 
 #### More Than Two (-) - Eve Rickert, F. V.
 Good intro book for folks opening up an existing monogamous relationship. Good personal stories. Feels very similar to _Open Deeply_ and _The Ethical Slut_ but in my opinion goes deeper and has better insights. Some caveats (see footnote).
@@ -51,14 +51,23 @@ Individual stories and interviews with polyam folk. (Featured a childhood friend
 
 ### Social Media
 
-#### [Remodeled Love](https://www.remodeledlove.com/) (⭐️⭐️⭐️⭐️⭐️?)
+I'm not going to give these ratings since they're always evolving, but here are some accounts that I follow on insta that focus on polyam/enm content. Presented in no particular order.
 
-G is a huge Remodeled Love fan and I've enjoyed the content that she's forwarded me from them! They've published some books, including one on polyamorous parenting, that I have yet to read and review.
+#### [Remodeled Love](https://www.remodeledlove.com/)
+
+G is a huge Remodeled Love fan and I've enjoyed the content that she's forwarded me from them! They've published some books, including one on polyamorous parenting, that I have yet to read and review. Also does OF, but that's not the main thrust (lol) of the content.
+
+#### [Decolonizing.love](https://instagram.com/decolonizing.love)
+
+Not only is this the most opinionated polyam/enm content that I've found (and I mean that as a compliment), their delivery and production quality is great. A real focus on deconstructing heirarchical polyam and antiracist work.
 
 ### Un-reviewed items
 
 These are books or other media that have been recommended to me but that I haven't gotten around to yet!
 
+- Polywise
+- Open: An Uncensored Memoir of Love, Liberation, and Non-Monogamy
+- Come Together
 - Stepping off the Escalator
 - Designer Relationships
 - A Smart Girl's Guide to Polyamory
@@ -69,8 +78,6 @@ These are books or other media that have been recommended to me but that I haven
 - The Jealousy Workbook
 - Building Open Relationships
 - Nonviolent Communication
-- Decolonizing.love (social)
-- Wearemanenough (social)
 - Monogamish_me (social)
 - unapolygetically (social)
 
