@@ -80,6 +80,7 @@ These are books or other media that have been recommended to me but that I haven
 - Nonviolent Communication
 - Monogamish_me (social)
 - unapolygetically (social)
+- The Expansive Group (social)
 
 ### Footnotes
 
