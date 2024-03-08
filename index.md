@@ -27,6 +27,9 @@ Good intro book for folks opening up an existing monogamous relationship. Good p
 #### Opening Up, (⭐️⭐️⭐️⭐️?) - Tristan Taormino
 Good for couples opening up, G and I read this one 10 years ago when we first started. I don't remember much of it but apparently it worked. Need to read it again in order to give it a real rating.
 
+#### Open - an uncensored memoir of love, liberation, and non-monogamy, (⭐️⭐️⭐️⭐️) - Rachel Krantz
+"A how-not-to manual as much as a how-to". A memoir by a woman in an unhealthy nonmonogamous relationship. Excellent writing, occasionally steamy. Talks about dom/sub, abuse, swingers, eating disorders, and more. Very real - and a solid resource on identifying abusive traits in relationships.
+
 ### Books not about Polyam
 
 But I like them anyway and they've helped inform my Polyam journey
