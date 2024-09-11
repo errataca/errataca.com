@@ -43,6 +43,9 @@ Specifically naming nurturance culture as the opposite of rape culture, this boo
 #### Come as You Are (⭐️⭐️⭐️⭐️⭐️) -  Emily Nagoski
 Talks about vaginal sexuality and arousal, although many of the lessons are applicable to folks of all genders. Talks a bit about the physical act and a LOT about the mental states that allow people to get aroused.
 
+#### Feel it All (⭐️⭐️⭐️⭐️⭐️) - Casey Tanner, LCPC, CST
+A delightful, quick read about sexuality through the lens of therapy. Talks about the lasting effects of bad or no sex education. Covers attachment theory as it relates to sex and relationships. Poly friendly, but not poly focused.
+
 ### Podcasts
 
 #### [Multiamory](https://www.multiamory.com/) (⭐️⭐️⭐️⭐️⭐️)
@@ -69,7 +72,6 @@ Not only is this the most opinionated polyam/enm content that I've found (and I 
 These are books or other media that have been recommended to me but that I haven't gotten around to yet!
 
 - Polywise
-- Open: An Uncensored Memoir of Love, Liberation, and Non-Monogamy
 - Come Together
 - Stepping off the Escalator
 - Designer Relationships
