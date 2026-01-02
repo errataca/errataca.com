@@ -61,6 +61,9 @@ https://www.artforum.com/features/the-body-you-want-an-inteview-with-judith-butl
 
 Butler: "I don’t believe that gender, race, or sexuality have to be identities, I think that they’re vectors of power."
 
+Identity -> Internal
+Vector -> External
+
 > Some of the difficulties emerging from identity politics can be traced to the prevailing fiction that how you desire determines who you are, and I actually think that Foucault’s refusal to come out or to do the confessional thing was a refusal to accept that equation. He really wanted the domain of desire and sexuality to be separable from the question of identity; he wanted to call into question why it was being pervasively domesticated and normalized through discourses of identity. And I think there’s something right about that. I kind of go for the notion that public affiliation can be very, very separate from questions of sexual practice. I’m not sure that anybody knows how to account for their sexual practices, and if they were able to account for their sexual practices, they probably wouldn’t be interested in them anymore. Someone like Leo Bersani has argued that eroticism only emerges once the subject is decentered, once it no longer knows how to account for itself, once it no longer knows its position, so to have a politics that says it wants to base itself on “positions of sexuality” is to have a politics which is willing to deny or, at least, to regulate the very sexuality that it’s pretending to represent.
 
 * Identity Politics: Political legibility, adherance to a script, picking an identity and sticking to it
@@ -70,3 +73,16 @@ Foucault:
 - _The History of Sexuality_: "confessional" -> what I was calling utterance
 - "The homosexual" as identity/cetegory was invented in the 19th century
 - Desire as energy, identity as legibility
+
+https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/
+
+bell hooks: queerness as a verb, not an adjective
+
+https://www.philosopheasy.com/p/the-limits-of-representation-judith
+
+> Butler draws heavily on the work of J.L. Austin, particularly his concept of *speech acts*. Austin argued that language doesn't just describe reality; it also performs actions. For example, saying "I do" at a wedding isn't just describing a marriage; it is enacting it. Butler extends this idea to gender, arguing that repeated acts of gendering create the very reality they seem to describe. This process creates the illusion of an underlying essence, obscuring the constructed nature of identity. / Consider the impact of being constantly told "boys don't cry" or "girls should be polite." These seemingly innocuous statements, repeated throughout childhood and adolescence, contribute to the construction of gendered identities. They enforce a binary understanding of gender and limit the range of acceptable behaviors for individuals based on their perceived sex. The power of these performative acts lies in their ability to shape our understanding of ourselves and the world around us, reinforcing societal norms and expectations.
+
+https://www.sepad.org.uk/announcement/social-theory-bell-hooks
+
+> hooks also argued that, much like women, men are socialized into passively accepting sexist ideology, and that all are hurt by rigid sex roles (hooks 2004, 32). hooks argues that patriarchal ideology brainwashes men to believe their domination of women is beneficial when it is not. It has boys and men believing in a masculinity that denies them access to full emotional well-being. Relative to women, men thus lack the emotional intelligence necessary for their personal and social fulfilment. Sara Ahmed notes that this ‘Psychological patriarchy’ is a valuing system that defines ‘masculinity’ and ‘femininity’, exalting half of our human traits while devaluing the other (2004, 36). Both men and women participate in it. Men are constantly concerned with the contradiction between the notion of masculinity they have been taught and their inability to live up to that unrealistic notion. They are alienated, frustrated, insecure, and direct their aggression—a privilege afforded to them by the patriarchal system—towards women and girls. Their capacity to assert control over their female counterparts is neither rewarding nor fulfilling. Therefore, the crisis facing men is not the crisis of masculinity, rather the crisis of patriarchal masculinity (ibid). As long as men equate violent domination and abuse of women with privilege, they do not realize the patriarchy’s damage to themselves and others, and do not rebel against it. Acknowledging this male suffering does not negate or diminish male responsibility for the exploitation of women or male enjoyment of gender-based privileges. Male oppression of women and male suffering from a sexist system can coexist as two connected realities. hooks argues that men who actively struggle against this sexism have a place in the feminist movement. They are women’s comrades, as feminism is ‘for everybody’ and what Sara Ahmed calls ‘…a sensible reaction to the injustices of the world’ (ibid; Mehra 2017).
+
