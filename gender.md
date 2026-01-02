@@ -43,14 +43,30 @@ The trans community seems to have mostly dropped the word "transsexual", but let
 
 To claim an identity, one usually needs to feel as though they match all - or at least most - of the general characteristics of that identity. But identities of the gender, sex, kink, attraction, etc. types have no rule-maker who decides which characteristics are in or out. Is a man who is wearing a dress and makeup trans? Not necessarily - they may be trying on a dress and makeup without intent to change their personal, internalized gender identity.
 
-So, what do we seem to agree makes a person trans? There are people who are trans who haven't transitioned (medically or socially), so perhaps it comes down to just the intent / belief / conviction that one is not their originally assigned gender. One might think of trans-ness in this way as made up or fake - but remember that all gender is intrinsic to humanity and therefore entirely created by decisions made by humans - including those who may not agree with the majority.
+So, what do we seem to agree makes a person trans? There are people who are trans who haven't formally transitioned (medically or socially), so perhaps it comes down to just the intent / belief / conviction that one is not their originally assigned gender. One might think of trans-ness in this way as made up or fake - but remember that all gender is  entirely created by decisions made by humans - including those who may not agree with the majority.
 
 For some identities, labels, etc., a person must simply believe with conviction that they are, and then they are.
 
 This feels "fake" and unconvincing, both from the outside and the inside. In addition, there are labels for which this does not apply at all, e.g., a person who is born into one culture cannot simply believe that they are another and thus claim that identity. Some have tried - for example, the white woman who "identified" as Black - but with a lot of harm caused. Perhaps a simpler and less contentious example: is someone "kinky" if they never actually have desire for kink play?
 
-To state "I am transgender" with conviction to onesself (although probably the most important step of the entire transition process) does not mean that society accepts you as transgender. Society seems to require (at least?) two things to accept a label: presentation and utterance. Presentation being the actual act of adopting the dress, mannerisms, voice, and so on of another gender. Utterance being the "coming out" process, where you state your labels to others.
+To state "I am transgender" with conviction to onesself (although probably the most important step of the entire transition process) does not mean that society accepts you as transgender. Society seems to require one of two things to accept a label: presentation and utterance. Presentation being the actual act of adopting the dress, mannerisms, voice, and so on of another gender. Utterance being the "coming out" process, where you state your labels to others.
 
 Labels evolve and new ones are created. "Top" and "bottom" begat terms like "power bottom" and more recently, "side". There may someday come a day at which no man thinks himself better for being one, at which point "patriarch" and "misogynist" may become defunct. The idea of two "natural", "invariant" genders is already being tossed out by many (although many others seem to be doubling down in response).
 
+## Random Notes
+
 https://daily.jstor.org/reading-list-gender-studies/
+
+https://www.artforum.com/features/the-body-you-want-an-inteview-with-judith-butler-203347/
+
+Butler: "I don’t believe that gender, race, or sexuality have to be identities, I think that they’re vectors of power."
+
+> Some of the difficulties emerging from identity politics can be traced to the prevailing fiction that how you desire determines who you are, and I actually think that Foucault’s refusal to come out or to do the confessional thing was a refusal to accept that equation. He really wanted the domain of desire and sexuality to be separable from the question of identity; he wanted to call into question why it was being pervasively domesticated and normalized through discourses of identity. And I think there’s something right about that. I kind of go for the notion that public affiliation can be very, very separate from questions of sexual practice. I’m not sure that anybody knows how to account for their sexual practices, and if they were able to account for their sexual practices, they probably wouldn’t be interested in them anymore. Someone like Leo Bersani has argued that eroticism only emerges once the subject is decentered, once it no longer knows how to account for itself, once it no longer knows its position, so to have a politics that says it wants to base itself on “positions of sexuality” is to have a politics which is willing to deny or, at least, to regulate the very sexuality that it’s pretending to represent.
+
+* Identity Politics: Political legibility, adherance to a script, picking an identity and sticking to it
+* Performativity: What you perform repetatively ("habit") is your identity, and needs no label
+
+Foucault:
+- _The History of Sexuality_: "confessional" -> what I was calling utterance
+- "The homosexual" as identity/cetegory was invented in the 19th century
+- Desire as energy, identity as legibility
