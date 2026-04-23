@@ -1,126 +1,39 @@
 # Relationship Agreements
 
-Experimental quiz format. Last updated 2026-04-22.
+## Body
 
-### 1. Emotional Safety
+### Physical Safety
 
-<table>
-  <tr>
-    <th>1.1 I feel like I can be my most authentic self around my partner(s).</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Sexuality & Kink
 
-  <tr>
-    <th>1.2 I help my partners in being & becoming their most authentic selves.</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Out-ness
 
-  <tr>
-    <th>1.3 When a partner is upset for a reason unrelated to me, it still feels like they are mad at me.</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+## Heart
 
-  <tr>
-    <th>1.4 When a partner makes a mistake, I am quick to forgive them.</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Commitments
 
-  <tr>
-    <th>1.5 I feel safe bringing up grievances with all of my partners</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Leftovers
 
-  <tr>
-    <th>1.6 I would feel ok bringing up a grievance directly with a metamour</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Community & Individuality
 
-  <tr>
-    <th>1.7 I would feel ok bringing up a grievance directly with a metamour</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Focus, NRE, & Limerance
 
-  <tr>
-    <th>1.8 If a partner is "uncomfortable" with something, I need to get their explicit permission to do that thing.</th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
+### Messy List & Breakups
 
-  <tr>
-    <th>1.9 </th>
-    <td>Strongly Disagree</td>
-    <td>Disagree</td>
-    <td>Neutral</td>
-    <td>Agree</td>
-    <td>Strongly Agree</td>
-    <td>N/A</td>
-  </tr>
-  
-</table>
+### Family
 
-### 2. Physical Safety
+## Spirit
 
-### 3. Rules / Agreements / Boundaries / Understandings
+### Authenticity
 
-### 4. Commitments
+### Growth
 
-### 5. Leftovers
+## Mind
 
-### 6. Privacy & Communication
+### BAES
 
-### 7. Community & Individuality
+### Emotional Safety
 
-### 7. Focus, NRE, and Limerance
+### Privacy & Communication
 
-### 8. Kink
-
-### 9. Messy List
-
-### 10. Breakups
-
-### 11. Out-ness
-
-### 12. Ethical Non-Monogamy
-
-### 13. Family
-
-### 14. Growth
+### Ethics
